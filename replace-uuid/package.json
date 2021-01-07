@@ -1,0 +1,15 @@
+{
+    "name": "replace-uuid",
+    "version": "0.0.1",
+    "description": "replace-uuid",
+    "author": "Cocos Creator",
+    "main": "main.js",
+    "main-menu": {
+        "i18n:MAIN_MENU.package.title/replace-uuid": {
+            "message": "replace-uuid:replace"
+        }
+    },
+    "dependencies": {
+        "node-uuid": "1.4.8"
+    }
+}
